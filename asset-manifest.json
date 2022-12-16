@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.bc1767f0.css",
+    "main.js": "/my-portfolio/static/js/main.91ddc1cf.js",
+    "static/media/GawgeebrothersNew.jpg": "/my-portfolio/static/media/GawgeebrothersNew.89433ee93f8bd25a5566.jpg",
+    "static/media/TravelAdvisorNew.jpg": "/my-portfolio/static/media/TravelAdvisorNew.9b06b34256788027711b.jpg",
+    "static/media/WeatherApp.jpg": "/my-portfolio/static/media/WeatherApp.dbf6df1d01d63575b573.jpg",
+    "static/media/MyPortfolio.jpg": "/my-portfolio/static/media/MyPortfolio.fdf3c02d4d733646ea0d.jpg",
+    "static/media/react.png": "/my-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/bootstrap.png": "/my-portfolio/static/media/bootstrap.9016c575b3cb32b2e85c.png",
+    "static/media/html.png": "/my-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/my-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/Redux.png": "/my-portfolio/static/media/Redux.b3b939c66aecf7d53967.png",
+    "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.bc1767f0.css.map": "/my-portfolio/static/css/main.bc1767f0.css.map",
+    "main.91ddc1cf.js.map": "/my-portfolio/static/js/main.91ddc1cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc1767f0.css",
+    "static/js/main.91ddc1cf.js"
+  ]
+}
